@@ -1,5 +1,3 @@
-
-
 from Program import *
        
 def main():
